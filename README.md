@@ -1,2 +1,4 @@
 # myfirt_file
-practise project
+x = y = u = 2
+del y
+print(u)
